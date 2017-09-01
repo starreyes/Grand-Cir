@@ -1,0 +1,16 @@
+body {
+  background: #87cefa;
+}
+
+input {
+  font-size: 110%;
+  border-radius: 5px
+}
+
+input#submit:hover {
+  border-bottom: 16px solid #fff;
+  text-shadow: 0px 1px 1px #ffffff
+
+
+
+}
